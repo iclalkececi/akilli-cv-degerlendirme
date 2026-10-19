@@ -1,2 +1,2 @@
-# akilli-cv-degerlendirme
-İnsan kaynakları için LLM tabanlı CV analizi, aday değerlendirme ve çalışan performansı tahmin sistemi.
+# ai-hr-analytics-system
+Yapay Zeka Destekli CV Değerlendirme, Çalışan Performansı Tahmini ve Tükenmişlik Riski Analizi Sistemi
